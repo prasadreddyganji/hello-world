@@ -20,7 +20,7 @@ p {
 <body>
 
 <h1>JLO</h1>
-<p>This is a paragraph.</p>
+<p>Nancy.</p>
 
 </body>
 </html>
